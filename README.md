@@ -112,9 +112,7 @@ Thanks to all the contributors and supporters of this project. Let's dive in and
 📬 Contact
 For any questions or feedback, feel free to reach out:
 
-Email: your-email@example.com
-LinkedIn: Your LinkedIn Profile
-GitHub: Your GitHub Profile
-Don't forget to ⭐ the repo if you found it helpful!
+Email: shamimdudekula@gmail.com
+LinkedIn: (https://www.linkedin.com/in/dudekula-shamim-sheikh-2a8b732b3/)
 
 Happy coding! 🚀
