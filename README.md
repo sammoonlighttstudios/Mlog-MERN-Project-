@@ -47,7 +47,7 @@ This blog application is built using the MERN stack and includes robust authenti
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/sahandghavidel/mern-blog-project.git
+   gh repo clone sammoonlighttstudios/Mlog-MERN-Project-
    cd mern-blog-project
 Install frontend dependencies:
 
